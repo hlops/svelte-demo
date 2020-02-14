@@ -32,6 +32,11 @@
   wired-card {
     position: fixed;
   }
+
+  .colored {
+    background: yellow;
+    color: red;
+  }
 </style>
 
 {#if repo}
@@ -53,9 +58,9 @@
     </label>
 
     <br /><br />
-    <wired-link href={repo.html_url} target="repo">Link to repo</wired-link>
+    <wired-link href={repo.html_url} elevation="2" target="repo">Link to repo</wired-link>
 
-    <wired-button on:click={addStar}>Add star!</wired-button>
+    <wired-button class="colored" elevation="3" on:click={addStar}>Add star!</wired-button>
     <br />
   </wired-card>
 {/if}

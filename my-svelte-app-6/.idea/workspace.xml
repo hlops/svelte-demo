@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc957096-d3a2-462e-8ebd-6395e610534b" name="Default Changelist" comment="" />
+    <list default="true" id="cc957096-d3a2-462e-8ebd-6395e610534b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/RepoDetails.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/RepoDetails.svelte" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XNwi7ObfUcDtmiJf84IQ4b7DK4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,7 +69,9 @@
       <workItem from="1581574888065" duration="4117000" />
       <workItem from="1581588708680" duration="777000" />
       <workItem from="1581589546208" duration="9206000" />
-      <workItem from="1581651066767" duration="6621000" />
+      <workItem from="1581651066767" duration="7304000" />
+      <workItem from="1581662277718" duration="58000" />
+      <workItem from="1581671591062" duration="817000" />
     </task>
     <servers />
   </component>
@@ -68,20 +79,24 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2210" y="1113" key="CommitChangelistDialog2" timestamp="1581672476255">
+      <screen x="1440" y="728" width="2560" height="1440" />
+    </state>
+    <state x="2210" y="1113" key="CommitChangelistDialog2/1440.728.2560.1440/0.0.1440.2560@1440.728.2560.1440" timestamp="1581672476255" />
     <state x="1540" y="828" width="2360" height="1210" maximized="true" key="DiffContextDialog" timestamp="1581589177722">
       <screen x="1440" y="728" width="2560" height="1440" />
     </state>
     <state x="1540" y="828" width="2360" height="1210" maximized="true" key="DiffContextDialog/1440.728.2560.1440/0.0.1440.2560@1440.728.2560.1440" timestamp="1581589177722" />
-    <state x="2488" y="1188" key="FileChooserDialogImpl" timestamp="1581651073610">
+    <state x="2488" y="1188" key="FileChooserDialogImpl" timestamp="1581671607636">
       <screen x="1440" y="728" width="2560" height="1440" />
     </state>
     <state x="590" y="818" key="FileChooserDialogImpl/1440.728.2560.1440/0.0.1440.2560@0.0.1440.2560" timestamp="1581589552186" />
-    <state x="2488" y="1188" key="FileChooserDialogImpl/1440.728.2560.1440/0.0.1440.2560@1440.728.2560.1440" timestamp="1581651073610" />
-    <state x="2204" y="1008" key="SettingsEditor" timestamp="1581651074479">
+    <state x="2488" y="1188" key="FileChooserDialogImpl/1440.728.2560.1440/0.0.1440.2560@1440.728.2560.1440" timestamp="1581671607636" />
+    <state x="2204" y="1008" key="SettingsEditor" timestamp="1581671608632">
       <screen x="1440" y="728" width="2560" height="1440" />
     </state>
     <state x="408" y="498" key="SettingsEditor/1440.728.2560.1440/0.0.1440.2560@0.0.1440.2560" timestamp="1581589553354" />
-    <state x="2204" y="1008" key="SettingsEditor/1440.728.2560.1440/0.0.1440.2560@1440.728.2560.1440" timestamp="1581651074479" />
+    <state x="2204" y="1008" key="SettingsEditor/1440.728.2560.1440/0.0.1440.2560@1440.728.2560.1440" timestamp="1581671608632" />
     <state x="2239" y="1022" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581657327902">
       <screen x="1440" y="728" width="2560" height="1440" />
     </state>
